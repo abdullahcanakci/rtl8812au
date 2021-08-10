@@ -1,0 +1,10 @@
+@import "/node_modules/modern-normalize/modern-normalize.css";
+@import "@fontsource/montserrat";
+@import "./colors.scss";
+@import "./variables.scss";
+
+body {
+  background-color: var(--color-background);
+  color: var(--color-text);
+  font-family: 'Montserrat';
+}
